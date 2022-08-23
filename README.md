@@ -1,7 +1,7 @@
 - 🌤 Hi, I’m Gyda (jee-da)
-- 📖 I’m a uni student studying electrical engineering and CS
-- 🌱 I'm interested in medical devices, bioelectrionics, and sensor technology
-- 💌 Feel free to reach out to me at <gyda2025@u.northwestern.edu>
+- 📖 I’m an electrical engineering and CS student at Northwestern University
+- 🌱 My passions lie in medical devices, bioelectrionics, and sustainable design
+- 💌 Feel free to reach out to me at <gyda2025@u.northwestern.edu>!
 
 <!---
 gydanawa/gydanawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
