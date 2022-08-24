@@ -1,6 +1,6 @@
 - 🌤 Hi, I’m Gyda (jee-da)
 - 📖 I’m an electrical engineering and CS student at Northwestern University
-- 🌱 My passions lie in medical devices, bioelectronics, and sustainable design
+- 🪴 My passions lie in medical devices, bioelectronics, and sustainable design
 - 💌 Feel free to reach out to me at <gyda2025@u.northwestern.edu>!
 
 <!---
